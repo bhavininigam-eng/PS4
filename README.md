@@ -4,7 +4,6 @@
 > **Competition:** PromptWars x Agent X 2.0  
 > **Selected Vertical:** PS04 — Personalized AI Learning Agent  
 > **Repository Owner:** [`bhavininigam-eng`](https://github.com/bhavininigam-eng)  
-> **Collaborator & Builder:** Parth Sharma ([`Parth10100402`](https://github.com/Parth10100402))  
 
 ---
 
